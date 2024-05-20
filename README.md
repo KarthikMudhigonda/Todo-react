@@ -1,10 +1,8 @@
 # Screenshot
 
 
-![](src/images/ss-01.png)
 ![](src/images/ss-02.png)
-![](src/images/ss-03.png)
-![](src/images/ss-04.png)
+![](src/images/ss-01.png)
 
 # Getting Started with Create React App
 
