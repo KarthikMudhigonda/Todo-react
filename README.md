@@ -1,5 +1,7 @@
 #Screenshots
-![](src/images/ss-1.png)
+![](src/images/ss-01.png)
+![](src/images/ss-02.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
